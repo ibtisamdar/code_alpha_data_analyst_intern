@@ -1,0 +1,5 @@
+Rows: 302, Columns: 7
+Duplicate rows: 2
+Missing values:
+       missing_count  missing_pct
+price              4         1.32
