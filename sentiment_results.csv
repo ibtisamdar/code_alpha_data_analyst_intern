@@ -1,0 +1,303 @@
+review_id,product_name,rating,review_text,price,review_date,verified_purchase,sentiment,sentiment_score
+1,Wireless Mouse,4,"Exceeded my expectations, five stars.",34.97,2025-03-13,0,neutral,0.0
+2,Desk Lamp,4,Excellent build quality and value.,76.45,2025-02-17,0,positive,0.7269
+3,Bluetooth Speaker,2,"Stopped working after a week, very disappointed.",60.7,2025-04-23,1,negative,-0.6478
+4,Desk Lamp,4,"Great quality and fast shipping, love it!",51.1,2025-06-24,1,positive,0.8622
+5,Bluetooth Speaker,4,"Exceeded my expectations, five stars.",19.23,2025-07-14,0,neutral,0.0
+6,Laptop Stand,3,"Matches the description, no complaints.",,2025-10-02,0,positive,0.3089
+7,Phone Case,5,"Exceeded my expectations, five stars.",,2025-12-27,0,neutral,0.0
+8,Wireless Mouse,1,Arrived broken and customer service was unhelpful.,,2026-03-20,0,negative,-0.4767
+9,Phone Case,4,"Exceeded my expectations, five stars.",,2025-07-01,0,neutral,0.0
+10,Laptop Stand,3,"It's okay, does the job.",58.98,2025-03-25,1,positive,0.2263
+11,Phone Case,5,"Works perfectly, highly recommend.",9.48,2025-04-28,0,positive,0.7902
+12,Laptop Stand,4,"Great quality and fast shipping, love it!",77.83,2025-04-19,1,positive,0.8622
+13,Phone Case,3,Decent for the price.,67.94,2025-03-13,0,neutral,0.0
+14,Desk Lamp,2,"Not worth the price, regret buying.",23.29,2025-04-23,0,negative,-0.5371
+15,Desk Lamp,4,"Great quality and fast shipping, love it!",21.09,2025-11-18,0,positive,0.8622
+16,Phone Case,2,"Not worth the price, regret buying.",21.21,2025-09-28,1,negative,-0.5371
+17,Desk Lamp,3,"It's okay, does the job.",29.91,2026-01-29,1,positive,0.2263
+18,Wireless Mouse,5,"Works perfectly, highly recommend.",45.78,2026-05-04,1,positive,0.7902
+19,Desk Lamp,3,"It's okay, does the job.",39.1,2025-03-20,1,positive,0.2263
+20,Bluetooth Speaker,2,"Stopped working after a week, very disappointed.",28.97,2025-01-10,0,negative,-0.6478
+21,Laptop Stand,3,"Matches the description, no complaints.",52.05,2025-05-04,0,positive,0.3089
+22,Wireless Mouse,3,"It's okay, does the job.",18.04,2025-12-04,1,positive,0.2263
+23,Desk Lamp,4,Excellent build quality and value.,29.03,2026-01-01,1,positive,0.7269
+24,Phone Case,3,"Matches the description, no complaints.",34.38,2025-03-03,0,positive,0.3089
+25,Bluetooth Speaker,4,"Great quality and fast shipping, love it!",40.84,2025-01-04,0,positive,0.8622
+26,Wireless Mouse,5,"Great quality and fast shipping, love it!",64.53,2025-09-21,0,positive,0.8622
+27,Laptop Stand,2,"Poor quality, would not buy again.",22.38,2025-05-05,1,negative,-0.4767
+28,Phone Case,5,"Great quality and fast shipping, love it!",45.02,2025-08-05,1,positive,0.8622
+29,Phone Case,3,"It's okay, does the job.",50.65,2025-07-26,1,positive,0.2263
+30,Wireless Mouse,5,"Works perfectly, highly recommend.",11.34,2025-08-05,0,positive,0.7902
+31,Laptop Stand,5,"Great quality and fast shipping, love it!",51.74,2025-01-26,0,positive,0.8622
+32,Wireless Mouse,3,"Average product, nothing special.",20.28,2025-09-06,1,negative,-0.3089
+33,Bluetooth Speaker,3,"It's okay, does the job.",12.68,2025-01-02,1,positive,0.2263
+34,Laptop Stand,3,Decent for the price.,76.32,2025-12-23,1,neutral,0.0
+35,Bluetooth Speaker,4,"Works perfectly, highly recommend.",77.53,2026-01-18,1,positive,0.7902
+36,Wireless Mouse,4,Excellent build quality and value.,66.2,2026-05-07,0,positive,0.7269
+37,Bluetooth Speaker,4,"Great quality and fast shipping, love it!",29.93,2025-03-03,0,positive,0.8622
+38,Desk Lamp,2,"Stopped working after a week, very disappointed.",15.03,2026-04-24,1,negative,-0.6478
+39,Bluetooth Speaker,2,Arrived broken and customer service was unhelpful.,57.26,2025-07-22,0,negative,-0.4767
+40,Laptop Stand,4,"Great quality and fast shipping, love it!",39.69,2025-11-15,0,positive,0.8622
+41,Wireless Mouse,2,Arrived broken and customer service was unhelpful.,16.79,2026-03-28,0,negative,-0.4767
+42,Bluetooth Speaker,5,"Works perfectly, highly recommend.",43.65,2025-11-10,0,positive,0.7902
+43,Desk Lamp,4,"Great quality and fast shipping, love it!",10.48,2025-03-01,0,positive,0.8622
+44,Desk Lamp,4,"Exceeded my expectations, five stars.",73.47,2025-04-15,1,neutral,0.0
+45,Desk Lamp,4,"Great quality and fast shipping, love it!",26.63,2026-03-01,1,positive,0.8622
+46,Wireless Mouse,5,"Works perfectly, highly recommend.",55.7,2026-01-15,1,positive,0.7902
+47,Desk Lamp,3,"It's okay, does the job.",30.44,2026-04-29,0,positive,0.2263
+48,Desk Lamp,4,"Exceeded my expectations, five stars.",45.44,2025-03-07,0,neutral,0.0
+49,Laptop Stand,5,"Great quality and fast shipping, love it!",47.36,2025-12-16,0,positive,0.8622
+50,Wireless Mouse,4,Excellent build quality and value.,21.31,2026-03-19,0,positive,0.7269
+51,Bluetooth Speaker,3,"It's okay, does the job.",77.81,2026-02-05,1,positive,0.2263
+52,Bluetooth Speaker,5,"Great quality and fast shipping, love it!",63.81,2026-03-16,1,positive,0.8622
+53,Bluetooth Speaker,5,Excellent build quality and value.,75.64,2026-02-25,0,positive,0.7269
+54,Bluetooth Speaker,5,"Works perfectly, highly recommend.",72.43,2025-05-23,0,positive,0.7902
+55,Laptop Stand,5,Excellent build quality and value.,51.05,2025-03-01,1,positive,0.7269
+56,Bluetooth Speaker,1,Arrived broken and customer service was unhelpful.,74.37,2025-11-02,1,negative,-0.4767
+57,Laptop Stand,3,"Matches the description, no complaints.",14.37,2025-07-17,0,positive,0.3089
+58,Laptop Stand,4,Excellent build quality and value.,22.11,2025-07-06,1,positive,0.7269
+59,Wireless Mouse,3,"Matches the description, no complaints.",11.26,2026-01-04,1,positive,0.3089
+60,Desk Lamp,5,Excellent build quality and value.,31.42,2025-12-23,1,positive,0.7269
+61,Desk Lamp,5,Excellent build quality and value.,35.98,2025-11-12,1,positive,0.7269
+62,Phone Case,2,"Stopped working after a week, very disappointed.",27.54,2025-04-18,1,negative,-0.6478
+63,Desk Lamp,2,Arrived broken and customer service was unhelpful.,67.67,2025-08-15,0,negative,-0.4767
+64,Desk Lamp,4,"Works perfectly, highly recommend.",33.69,2025-09-21,1,positive,0.7902
+65,Wireless Mouse,3,"Average product, nothing special.",28.23,2026-02-17,0,negative,-0.3089
+66,Bluetooth Speaker,5,"Works perfectly, highly recommend.",47.07,2025-08-22,1,positive,0.7902
+67,Desk Lamp,5,Excellent build quality and value.,18.15,2025-05-05,0,positive,0.7269
+68,Wireless Mouse,3,"It's okay, does the job.",65.76,2025-04-01,1,positive,0.2263
+69,Wireless Mouse,1,"Stopped working after a week, very disappointed.",13.37,2026-02-15,1,negative,-0.6478
+70,Desk Lamp,3,"Matches the description, no complaints.",79.06,2026-03-02,1,positive,0.3089
+71,Bluetooth Speaker,3,Decent for the price.,63.6,2026-01-20,0,neutral,0.0
+72,Laptop Stand,3,Decent for the price.,22.31,2025-08-14,0,neutral,0.0
+73,Laptop Stand,5,"Exceeded my expectations, five stars.",8.4,2025-03-12,0,neutral,0.0
+74,Bluetooth Speaker,4,"Works perfectly, highly recommend.",66.71,2025-08-01,1,positive,0.7902
+75,Laptop Stand,1,"Not worth the price, regret buying.",58.89,2026-03-03,1,negative,-0.5371
+76,Phone Case,3,"It's okay, does the job.",60.49,2025-01-04,1,positive,0.2263
+77,Laptop Stand,3,Decent for the price.,63.53,2025-04-23,1,neutral,0.0
+78,Phone Case,5,Excellent build quality and value.,13.33,2026-01-06,0,positive,0.7269
+79,Phone Case,3,"It's okay, does the job.",33.81,2025-02-12,1,positive,0.2263
+80,Bluetooth Speaker,3,"Average product, nothing special.",16.34,2025-07-14,1,negative,-0.3089
+81,Bluetooth Speaker,5,"Exceeded my expectations, five stars.",70.14,2026-01-21,1,neutral,0.0
+82,Laptop Stand,3,Decent for the price.,52.88,2026-05-03,1,neutral,0.0
+83,Bluetooth Speaker,1,"Stopped working after a week, very disappointed.",31.82,2025-04-13,0,negative,-0.6478
+84,Desk Lamp,5,"Works perfectly, highly recommend.",12.58,2025-10-16,0,positive,0.7902
+85,Phone Case,1,Arrived broken and customer service was unhelpful.,30.39,2026-02-03,0,negative,-0.4767
+86,Laptop Stand,5,"Great quality and fast shipping, love it!",31.41,2025-07-23,0,positive,0.8622
+87,Wireless Mouse,2,"Poor quality, would not buy again.",60.53,2026-03-12,0,negative,-0.4767
+88,Desk Lamp,3,"Matches the description, no complaints.",53.9,2025-02-05,1,positive,0.3089
+89,Wireless Mouse,3,Decent for the price.,71.88,2026-05-07,1,neutral,0.0
+90,Phone Case,3,Decent for the price.,42.0,2025-11-12,1,neutral,0.0
+91,Phone Case,5,"Exceeded my expectations, five stars.",16.61,2026-03-02,0,neutral,0.0
+92,Laptop Stand,3,"Average product, nothing special.",59.35,2025-06-22,0,negative,-0.3089
+93,Phone Case,3,"Average product, nothing special.",62.78,2025-07-01,1,negative,-0.3089
+94,Laptop Stand,4,"Exceeded my expectations, five stars.",48.41,2025-02-13,0,neutral,0.0
+95,Phone Case,5,"Works perfectly, highly recommend.",63.51,2025-08-18,0,positive,0.7902
+96,Wireless Mouse,4,Excellent build quality and value.,43.55,2025-12-06,1,positive,0.7269
+97,Phone Case,2,Arrived broken and customer service was unhelpful.,45.64,2025-06-30,1,negative,-0.4767
+98,Laptop Stand,4,"Works perfectly, highly recommend.",38.78,2025-06-11,0,positive,0.7902
+99,Desk Lamp,3,"Average product, nothing special.",9.83,2026-01-14,1,negative,-0.3089
+100,Laptop Stand,3,"Matches the description, no complaints.",15.77,2025-06-01,0,positive,0.3089
+101,Laptop Stand,4,"Great quality and fast shipping, love it!",10.26,2025-01-24,0,positive,0.8622
+102,Desk Lamp,5,"Works perfectly, highly recommend.",53.82,2026-03-23,0,positive,0.7902
+103,Desk Lamp,5,Excellent build quality and value.,30.63,2025-04-05,0,positive,0.7269
+104,Laptop Stand,3,Decent for the price.,44.62,2025-07-25,1,neutral,0.0
+105,Wireless Mouse,1,"Stopped working after a week, very disappointed.",73.34,2026-02-20,1,negative,-0.6478
+106,Wireless Mouse,3,"It's okay, does the job.",25.95,2026-02-02,1,positive,0.2263
+107,Phone Case,3,"Matches the description, no complaints.",37.55,2025-10-19,0,positive,0.3089
+108,Desk Lamp,3,"It's okay, does the job.",62.4,2025-05-16,0,positive,0.2263
+109,Bluetooth Speaker,4,"Great quality and fast shipping, love it!",24.47,2025-07-29,1,positive,0.8622
+110,Desk Lamp,4,"Great quality and fast shipping, love it!",13.54,2025-12-28,1,positive,0.8622
+111,Phone Case,5,"Works perfectly, highly recommend.",28.86,2025-08-06,0,positive,0.7902
+112,Desk Lamp,5,"Works perfectly, highly recommend.",19.61,2025-02-06,0,positive,0.7902
+113,Bluetooth Speaker,3,"Matches the description, no complaints.",74.94,2025-08-28,1,positive,0.3089
+114,Phone Case,3,Decent for the price.,66.18,2025-11-03,0,neutral,0.0
+115,Phone Case,3,"Matches the description, no complaints.",53.61,2025-04-28,0,positive,0.3089
+116,Laptop Stand,2,"Poor quality, would not buy again.",70.75,2026-04-15,1,negative,-0.4767
+117,Bluetooth Speaker,3,Decent for the price.,65.86,2025-08-29,1,neutral,0.0
+118,Phone Case,4,"Great quality and fast shipping, love it!",21.43,2025-07-30,1,positive,0.8622
+119,Laptop Stand,2,"Not worth the price, regret buying.",72.26,2025-02-15,1,negative,-0.5371
+120,Laptop Stand,4,Excellent build quality and value.,46.83,2025-07-31,0,positive,0.7269
+121,Bluetooth Speaker,1,"Not worth the price, regret buying.",66.14,2025-04-15,1,negative,-0.5371
+122,Desk Lamp,5,"Exceeded my expectations, five stars.",72.52,2025-03-04,0,neutral,0.0
+123,Desk Lamp,3,"Average product, nothing special.",30.9,2025-10-10,1,negative,-0.3089
+124,Wireless Mouse,5,"Great quality and fast shipping, love it!",15.92,2025-11-28,0,positive,0.8622
+125,Phone Case,3,"Matches the description, no complaints.",24.41,2026-03-04,1,positive,0.3089
+126,Phone Case,5,"Works perfectly, highly recommend.",38.75,2026-04-17,0,positive,0.7902
+127,Wireless Mouse,5,Excellent build quality and value.,66.9,2026-02-25,0,positive,0.7269
+128,Laptop Stand,3,Decent for the price.,69.97,2025-10-03,1,neutral,0.0
+129,Laptop Stand,5,Excellent build quality and value.,8.5,2026-03-22,0,positive,0.7269
+130,Bluetooth Speaker,1,"Poor quality, would not buy again.",44.77,2025-06-12,1,negative,-0.4767
+131,Phone Case,5,"Works perfectly, highly recommend.",38.05,2025-03-06,1,positive,0.7902
+132,Wireless Mouse,3,Decent for the price.,23.99,2025-01-08,0,neutral,0.0
+133,Phone Case,3,"Average product, nothing special.",16.63,2026-02-05,1,negative,-0.3089
+134,Laptop Stand,2,"Not worth the price, regret buying.",32.31,2026-03-13,1,negative,-0.5371
+135,Laptop Stand,1,"Not worth the price, regret buying.",75.89,2025-05-01,1,negative,-0.5371
+136,Bluetooth Speaker,3,Decent for the price.,31.27,2025-08-16,0,neutral,0.0
+137,Laptop Stand,3,"It's okay, does the job.",45.35,2025-05-31,1,positive,0.2263
+138,Laptop Stand,5,"Works perfectly, highly recommend.",58.62,2025-03-29,0,positive,0.7902
+139,Wireless Mouse,2,"Not worth the price, regret buying.",34.18,2026-04-13,0,negative,-0.5371
+140,Bluetooth Speaker,5,"Exceeded my expectations, five stars.",77.97,2025-12-08,0,neutral,0.0
+141,Phone Case,3,"Average product, nothing special.",77.3,2026-04-29,1,negative,-0.3089
+142,Desk Lamp,5,Excellent build quality and value.,26.13,2026-03-09,1,positive,0.7269
+143,Bluetooth Speaker,3,Decent for the price.,43.8,2025-07-15,1,neutral,0.0
+144,Desk Lamp,4,"Exceeded my expectations, five stars.",29.66,2025-05-21,0,neutral,0.0
+145,Desk Lamp,3,"It's okay, does the job.",28.51,2026-02-02,0,positive,0.2263
+146,Desk Lamp,3,"Average product, nothing special.",10.66,2025-12-14,0,negative,-0.3089
+147,Wireless Mouse,3,"It's okay, does the job.",51.89,2025-01-18,1,positive,0.2263
+148,Bluetooth Speaker,5,"Exceeded my expectations, five stars.",44.19,2025-03-31,0,neutral,0.0
+149,Bluetooth Speaker,3,"Matches the description, no complaints.",11.71,2025-05-12,1,positive,0.3089
+150,Laptop Stand,3,"Matches the description, no complaints.",28.06,2026-05-09,0,positive,0.3089
+151,Bluetooth Speaker,3,"Average product, nothing special.",73.4,2025-02-16,1,negative,-0.3089
+152,Wireless Mouse,5,"Great quality and fast shipping, love it!",25.25,2025-12-11,1,positive,0.8622
+153,Desk Lamp,4,"Exceeded my expectations, five stars.",18.43,2025-08-30,0,neutral,0.0
+154,Desk Lamp,3,"Matches the description, no complaints.",43.24,2025-11-22,1,positive,0.3089
+155,Laptop Stand,1,"Stopped working after a week, very disappointed.",78.97,2026-04-30,0,negative,-0.6478
+156,Laptop Stand,3,"It's okay, does the job.",25.43,2026-03-31,0,positive,0.2263
+157,Phone Case,4,Excellent build quality and value.,56.39,2025-12-02,0,positive,0.7269
+158,Phone Case,2,Arrived broken and customer service was unhelpful.,62.84,2025-04-22,1,negative,-0.4767
+159,Phone Case,3,"Matches the description, no complaints.",25.11,2025-10-06,1,positive,0.3089
+160,Wireless Mouse,4,"Works perfectly, highly recommend.",60.43,2025-02-16,0,positive,0.7902
+161,Desk Lamp,3,"It's okay, does the job.",34.48,2025-03-06,0,positive,0.2263
+162,Wireless Mouse,3,"Average product, nothing special.",53.53,2025-06-18,0,negative,-0.3089
+163,Desk Lamp,4,"Works perfectly, highly recommend.",53.61,2026-02-13,0,positive,0.7902
+164,Wireless Mouse,1,"Stopped working after a week, very disappointed.",46.58,2025-07-03,0,negative,-0.6478
+165,Desk Lamp,5,"Works perfectly, highly recommend.",14.5,2025-03-06,1,positive,0.7902
+166,Desk Lamp,5,"Great quality and fast shipping, love it!",68.14,2026-02-03,1,positive,0.8622
+167,Desk Lamp,1,"Not worth the price, regret buying.",31.1,2026-01-08,1,negative,-0.5371
+168,Phone Case,2,"Stopped working after a week, very disappointed.",21.43,2026-03-10,1,negative,-0.6478
+169,Phone Case,1,"Not worth the price, regret buying.",10.94,2026-04-06,0,negative,-0.5371
+170,Laptop Stand,2,"Stopped working after a week, very disappointed.",50.54,2025-11-16,1,negative,-0.6478
+171,Phone Case,3,"Matches the description, no complaints.",56.78,2025-02-20,0,positive,0.3089
+172,Desk Lamp,3,"Average product, nothing special.",9.19,2026-03-31,0,negative,-0.3089
+173,Phone Case,5,Excellent build quality and value.,44.87,2026-01-09,0,positive,0.7269
+174,Laptop Stand,5,"Exceeded my expectations, five stars.",24.31,2025-12-18,1,neutral,0.0
+175,Wireless Mouse,4,"Great quality and fast shipping, love it!",54.45,2025-02-19,1,positive,0.8622
+176,Bluetooth Speaker,2,Arrived broken and customer service was unhelpful.,20.55,2025-07-01,1,negative,-0.4767
+177,Wireless Mouse,3,"Matches the description, no complaints.",57.75,2025-10-23,0,positive,0.3089
+178,Bluetooth Speaker,2,"Poor quality, would not buy again.",35.84,2026-03-09,1,negative,-0.4767
+179,Wireless Mouse,3,"Average product, nothing special.",75.44,2025-11-08,1,negative,-0.3089
+180,Wireless Mouse,5,"Exceeded my expectations, five stars.",17.9,2025-01-04,0,neutral,0.0
+181,Bluetooth Speaker,1,"Not worth the price, regret buying.",32.56,2026-01-15,0,negative,-0.5371
+182,Wireless Mouse,3,"Average product, nothing special.",16.17,2025-08-21,1,negative,-0.3089
+183,Bluetooth Speaker,4,"Exceeded my expectations, five stars.",74.58,2025-03-21,0,neutral,0.0
+184,Desk Lamp,5,"Great quality and fast shipping, love it!",71.17,2025-12-05,1,positive,0.8622
+185,Phone Case,1,"Not worth the price, regret buying.",26.57,2026-01-22,0,negative,-0.5371
+186,Laptop Stand,5,"Exceeded my expectations, five stars.",55.52,2025-01-24,0,neutral,0.0
+187,Phone Case,3,"It's okay, does the job.",66.84,2025-06-04,0,positive,0.2263
+188,Bluetooth Speaker,3,"Matches the description, no complaints.",47.97,2025-01-04,1,positive,0.3089
+189,Phone Case,4,Excellent build quality and value.,46.13,2025-02-06,1,positive,0.7269
+190,Wireless Mouse,4,Excellent build quality and value.,25.41,2025-10-22,1,positive,0.7269
+191,Desk Lamp,5,Excellent build quality and value.,14.7,2025-07-27,0,positive,0.7269
+192,Laptop Stand,5,Excellent build quality and value.,72.6,2025-08-12,0,positive,0.7269
+193,Bluetooth Speaker,4,Excellent build quality and value.,72.83,2026-03-22,1,positive,0.7269
+194,Laptop Stand,4,"Works perfectly, highly recommend.",53.58,2025-09-29,0,positive,0.7902
+195,Laptop Stand,4,"Works perfectly, highly recommend.",32.41,2025-03-16,1,positive,0.7902
+196,Bluetooth Speaker,4,"Works perfectly, highly recommend.",33.14,2026-05-03,1,positive,0.7902
+197,Phone Case,3,Decent for the price.,60.27,2025-03-19,1,neutral,0.0
+198,Wireless Mouse,5,"Exceeded my expectations, five stars.",72.59,2025-06-30,0,neutral,0.0
+199,Laptop Stand,4,"Great quality and fast shipping, love it!",71.87,2026-03-02,1,positive,0.8622
+200,Wireless Mouse,2,"Stopped working after a week, very disappointed.",64.15,2025-10-25,0,negative,-0.6478
+201,Phone Case,3,"Average product, nothing special.",54.23,2025-09-14,0,negative,-0.3089
+202,Wireless Mouse,4,"Exceeded my expectations, five stars.",14.06,2025-01-21,0,neutral,0.0
+203,Phone Case,3,"Average product, nothing special.",19.64,2026-04-15,1,negative,-0.3089
+204,Phone Case,4,"Exceeded my expectations, five stars.",72.7,2025-02-03,1,neutral,0.0
+205,Wireless Mouse,2,"Not worth the price, regret buying.",51.66,2026-01-06,0,negative,-0.5371
+206,Laptop Stand,5,"Works perfectly, highly recommend.",8.66,2026-05-11,1,positive,0.7902
+207,Bluetooth Speaker,2,"Stopped working after a week, very disappointed.",15.31,2025-11-26,1,negative,-0.6478
+208,Bluetooth Speaker,2,"Stopped working after a week, very disappointed.",55.77,2025-01-10,1,negative,-0.6478
+209,Laptop Stand,5,"Works perfectly, highly recommend.",8.36,2025-04-09,0,positive,0.7902
+210,Bluetooth Speaker,4,"Exceeded my expectations, five stars.",19.58,2025-12-05,1,neutral,0.0
+211,Desk Lamp,4,Excellent build quality and value.,47.51,2025-04-03,0,positive,0.7269
+212,Phone Case,4,"Exceeded my expectations, five stars.",57.82,2025-11-09,1,neutral,0.0
+213,Phone Case,5,"Works perfectly, highly recommend.",54.94,2026-04-08,0,positive,0.7902
+214,Laptop Stand,2,"Not worth the price, regret buying.",24.15,2026-02-03,1,negative,-0.5371
+215,Desk Lamp,1,"Poor quality, would not buy again.",59.28,2026-03-23,1,negative,-0.4767
+216,Wireless Mouse,1,Arrived broken and customer service was unhelpful.,25.08,2025-05-26,0,negative,-0.4767
+217,Bluetooth Speaker,5,"Works perfectly, highly recommend.",31.43,2026-04-30,0,positive,0.7902
+218,Phone Case,3,"It's okay, does the job.",61.75,2025-07-22,1,positive,0.2263
+219,Bluetooth Speaker,5,"Great quality and fast shipping, love it!",54.77,2025-01-15,1,positive,0.8622
+220,Wireless Mouse,3,"Matches the description, no complaints.",69.14,2025-01-20,1,positive,0.3089
+221,Phone Case,2,"Poor quality, would not buy again.",55.35,2025-11-12,0,negative,-0.4767
+222,Wireless Mouse,4,"Works perfectly, highly recommend.",48.92,2025-02-26,1,positive,0.7902
+223,Bluetooth Speaker,4,"Great quality and fast shipping, love it!",14.74,2025-11-24,1,positive,0.8622
+224,Wireless Mouse,4,Excellent build quality and value.,34.48,2026-01-03,0,positive,0.7269
+225,Laptop Stand,4,"Exceeded my expectations, five stars.",27.09,2025-04-06,0,neutral,0.0
+226,Desk Lamp,3,"It's okay, does the job.",25.57,2026-03-24,1,positive,0.2263
+227,Wireless Mouse,1,Arrived broken and customer service was unhelpful.,78.06,2025-07-02,0,negative,-0.4767
+228,Laptop Stand,5,"Great quality and fast shipping, love it!",36.3,2025-01-23,1,positive,0.8622
+229,Desk Lamp,5,"Works perfectly, highly recommend.",72.23,2025-11-20,0,positive,0.7902
+230,Bluetooth Speaker,4,Excellent build quality and value.,53.44,2025-04-14,0,positive,0.7269
+231,Bluetooth Speaker,3,"Matches the description, no complaints.",65.23,2026-02-22,1,positive,0.3089
+232,Laptop Stand,5,"Works perfectly, highly recommend.",44.19,2026-03-18,0,positive,0.7902
+233,Laptop Stand,5,"Exceeded my expectations, five stars.",49.54,2026-01-16,1,neutral,0.0
+234,Phone Case,5,"Works perfectly, highly recommend.",43.46,2025-07-08,1,positive,0.7902
+235,Wireless Mouse,3,"It's okay, does the job.",22.06,2025-10-07,1,positive,0.2263
+236,Laptop Stand,5,"Exceeded my expectations, five stars.",60.02,2025-08-17,1,neutral,0.0
+237,Bluetooth Speaker,1,Arrived broken and customer service was unhelpful.,28.22,2026-01-08,1,negative,-0.4767
+238,Desk Lamp,3,"Matches the description, no complaints.",9.75,2025-12-10,1,positive,0.3089
+239,Laptop Stand,1,"Poor quality, would not buy again.",54.47,2026-03-11,1,negative,-0.4767
+240,Wireless Mouse,5,"Works perfectly, highly recommend.",20.75,2025-07-16,0,positive,0.7902
+241,Desk Lamp,5,Excellent build quality and value.,75.71,2025-08-16,0,positive,0.7269
+242,Desk Lamp,5,"Exceeded my expectations, five stars.",76.68,2025-11-29,1,neutral,0.0
+243,Bluetooth Speaker,3,"It's okay, does the job.",73.87,2025-09-23,1,positive,0.2263
+244,Desk Lamp,5,"Exceeded my expectations, five stars.",34.65,2025-11-10,1,neutral,0.0
+245,Phone Case,4,"Works perfectly, highly recommend.",9.11,2025-03-30,1,positive,0.7902
+246,Wireless Mouse,3,"Matches the description, no complaints.",74.84,2025-10-09,1,positive,0.3089
+247,Laptop Stand,3,"Average product, nothing special.",38.83,2025-03-04,0,negative,-0.3089
+248,Bluetooth Speaker,4,Excellent build quality and value.,77.6,2025-10-11,1,positive,0.7269
+249,Phone Case,3,"Average product, nothing special.",77.38,2025-06-08,1,negative,-0.3089
+250,Phone Case,1,"Not worth the price, regret buying.",69.42,2026-05-13,1,negative,-0.5371
+251,Wireless Mouse,4,"Exceeded my expectations, five stars.",29.2,2026-01-29,0,neutral,0.0
+252,Phone Case,1,"Stopped working after a week, very disappointed.",35.73,2025-06-05,0,negative,-0.6478
+253,Bluetooth Speaker,5,"Works perfectly, highly recommend.",69.28,2026-03-10,0,positive,0.7902
+254,Laptop Stand,4,"Exceeded my expectations, five stars.",30.82,2025-11-11,0,neutral,0.0
+255,Desk Lamp,2,"Poor quality, would not buy again.",20.2,2026-03-08,0,negative,-0.4767
+256,Wireless Mouse,4,"Exceeded my expectations, five stars.",48.09,2025-11-13,0,neutral,0.0
+257,Phone Case,3,"Matches the description, no complaints.",75.4,2025-05-06,1,positive,0.3089
+258,Laptop Stand,4,"Great quality and fast shipping, love it!",58.11,2025-08-01,1,positive,0.8622
+259,Phone Case,5,"Works perfectly, highly recommend.",49.04,2026-01-11,1,positive,0.7902
+260,Phone Case,4,"Exceeded my expectations, five stars.",15.0,2025-05-04,1,neutral,0.0
+261,Wireless Mouse,4,"Works perfectly, highly recommend.",52.28,2025-01-26,1,positive,0.7902
+262,Phone Case,3,Decent for the price.,79.28,2026-02-21,1,neutral,0.0
+263,Desk Lamp,3,"Average product, nothing special.",18.09,2025-09-21,1,negative,-0.3089
+264,Phone Case,3,Decent for the price.,45.32,2026-04-29,1,neutral,0.0
+265,Desk Lamp,4,"Works perfectly, highly recommend.",71.17,2025-01-25,0,positive,0.7902
+266,Laptop Stand,5,Excellent build quality and value.,61.34,2026-03-10,0,positive,0.7269
+267,Phone Case,5,"Exceeded my expectations, five stars.",58.19,2025-07-07,0,neutral,0.0
+268,Phone Case,5,"Works perfectly, highly recommend.",58.58,2025-02-07,1,positive,0.7902
+269,Desk Lamp,4,"Exceeded my expectations, five stars.",33.88,2026-05-15,0,neutral,0.0
+270,Phone Case,5,"Exceeded my expectations, five stars.",29.14,2025-04-12,1,neutral,0.0
+271,Desk Lamp,4,"Great quality and fast shipping, love it!",66.27,2026-02-16,1,positive,0.8622
+272,Desk Lamp,5,"Works perfectly, highly recommend.",66.33,2025-03-25,1,positive,0.7902
+273,Desk Lamp,3,"Matches the description, no complaints.",70.43,2025-12-29,1,positive,0.3089
+274,Phone Case,3,"Matches the description, no complaints.",73.75,2025-08-02,1,positive,0.3089
+275,Wireless Mouse,1,Arrived broken and customer service was unhelpful.,44.82,2025-10-26,1,negative,-0.4767
+276,Bluetooth Speaker,1,"Not worth the price, regret buying.",44.11,2025-01-17,0,negative,-0.5371
+277,Bluetooth Speaker,5,"Exceeded my expectations, five stars.",65.48,2025-07-31,0,neutral,0.0
+278,Phone Case,1,"Not worth the price, regret buying.",54.8,2025-09-23,0,negative,-0.5371
+279,Desk Lamp,5,Excellent build quality and value.,58.54,2026-05-05,0,positive,0.7269
+280,Phone Case,3,"Matches the description, no complaints.",65.3,2025-11-09,1,positive,0.3089
+281,Bluetooth Speaker,3,"Matches the description, no complaints.",72.08,2026-04-28,1,positive,0.3089
+282,Laptop Stand,3,Decent for the price.,32.34,2025-06-28,1,neutral,0.0
+283,Laptop Stand,5,Excellent build quality and value.,35.04,2026-05-04,0,positive,0.7269
+284,Laptop Stand,5,"Great quality and fast shipping, love it!",14.77,2025-12-02,1,positive,0.8622
+285,Phone Case,5,"Exceeded my expectations, five stars.",49.64,2025-02-25,0,neutral,0.0
+286,Bluetooth Speaker,4,"Works perfectly, highly recommend.",10.59,2025-02-21,1,positive,0.7902
+287,Laptop Stand,3,"It's okay, does the job.",41.52,2026-05-09,0,positive,0.2263
+288,Phone Case,1,"Not worth the price, regret buying.",47.07,2026-01-23,1,negative,-0.5371
+289,Laptop Stand,4,"Great quality and fast shipping, love it!",28.63,2025-10-01,0,positive,0.8622
+290,Bluetooth Speaker,4,"Works perfectly, highly recommend.",50.54,2026-02-08,1,positive,0.7902
+291,Bluetooth Speaker,3,"Matches the description, no complaints.",10.2,2025-06-02,0,positive,0.3089
+292,Laptop Stand,4,Excellent build quality and value.,10.69,2025-05-20,0,positive,0.7269
+293,Wireless Mouse,5,Excellent build quality and value.,67.23,2025-01-08,1,positive,0.7269
+294,Laptop Stand,2,"Poor quality, would not buy again.",33.93,2026-02-28,1,negative,-0.4767
+295,Desk Lamp,4,Excellent build quality and value.,17.15,2025-03-13,1,positive,0.7269
+296,Laptop Stand,3,"It's okay, does the job.",45.6,2025-05-01,1,positive,0.2263
+297,Laptop Stand,3,"Matches the description, no complaints.",63.44,2025-12-01,1,positive,0.3089
+298,Bluetooth Speaker,5,"Great quality and fast shipping, love it!",23.54,2025-03-23,1,positive,0.8622
+299,Desk Lamp,3,"Matches the description, no complaints.",52.85,2025-07-08,0,positive,0.3089
+300,Bluetooth Speaker,3,Decent for the price.,14.15,2026-01-18,1,neutral,0.0
+11,Phone Case,5,"Works perfectly, highly recommend.",9.48,2025-04-28,0,positive,0.7902
+12,Laptop Stand,4,"Great quality and fast shipping, love it!",77.83,2025-04-19,1,positive,0.8622
